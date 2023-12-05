@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chewyty
-- 👀 I’m interested in machine learning, web and software development.
-- 🌱 I’m currently learning web development.
+- 👋 Hi, I’m @Chagatai404
+- 👀 I’m interested in machine learning, AI engineering, web and software development.
+- 🌱 I’m currently learning machine learning w/ Python.
 - 📫 How to reach me --> cagatayokty@gmail.com
 
 <!---
